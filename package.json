@@ -1,5 +1,5 @@
 {
-  "name": "roi",
+  "name": "roi-calculator",
   "version": "0.0.1",
   "description": "node module to calculate roi",
   "main": "index.js",
